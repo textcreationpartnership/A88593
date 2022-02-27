@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Love's speech made on the scaffold on Tower-hill, August 22. 1651. With his proposals to the citizens of London; his desires touching religion, and his judgment concerning the Presbyterian-government; as also, his perfect prayer immediately before his head was severed from his body: printed by an exact copy taken in short-hand.</title>
+            <author>Love, Christopher, 1618-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88593</idno>
+            <idno type="STC">Wing L3177</idno>
+            <idno type="STC">Thomason E641_8</idno>
+            <idno type="STC">ESTC R206711</idno>
+            <idno type="EEBO-CITATION">99865824</idno>
+            <idno type="PROQUEST">99865824</idno>
+            <idno type="VID">165938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165938)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E641[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Love's speech made on the scaffold on Tower-hill, August 22. 1651. With his proposals to the citizens of London; his desires touching religion, and his judgment concerning the Presbyterian-government; as also, his perfect prayer immediately before his head was severed from his body: printed by an exact copy taken in short-hand.</title>
+                  <author>Love, Christopher, 1618-1651.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept: 8 1651".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:165938:1" rendition="simple:additions"/>
+            <head>
+               <hi>Mr.</hi> Love's <hi>Speech made on the Scaffold on Tower-hill, Auguſt</hi> 22. 1651. <hi>With his Propoſals to the Citizens of London; his Deſires touching Religion, and his Judgment concerning the Presbyterian-Government; As alſo, his perfect Prayer immediately before his head was ſevered from his body: Printed by an exact Copy taken in ſhort-hand.</hi>
+            </head>
+            <p>Mr. <hi>Love</hi> being brought upon the Scaffold by the Sheriffe, Mr Sheriff <hi>Titchburn</hi> ſhewed him the Warrant directed to the Sheriffs of <hi>London</hi> for his Execution, telling him that he took no pleaſure in this Work, but it was a Duty laid upon him. To which Mr. <hi>Love</hi> reply'd. <q>
+                  <hi>I believe it, Sir.</hi>
+               </q>
+            </p>
+            <sp>
+               <speaker>Sh, <hi>Titchburn.</hi>
+               </speaker>
+               <p>
+                  <hi>I have done my duty for you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Love.</speaker>
+               <p>
+                  <hi>The Lord bleſs you:</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lieu of the Tower.</speaker>
+               <p>
+                  <hi>The Lord ſhrengthen you in this hour of your Temptation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Love.</speaker>
+               <p>
+                  <hi>Sir, I am: I bleſs God my heart is in heaven; I am well.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sh. Titchburn.</speaker>
+               <p>
+                  <hi>I deſire you to conſider we have the other to execute afterwards, and</hi> 6 <hi>a clock is our hour; but we ſhall give you as much time as we can.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Love.</speaker>
+               <p>
+                  <hi>I ſhall be the briefer.</hi>
+               </p>
+               <stage>
+                  <p>Then putting off his hat two ſeveral times to the people, he ſpake as followeth;</p>
+               </stage>
+               <p>
+                  <hi>BEloved Chriſtians,</hi> I am this day made a Spectacle unto God, Angels and Men; and among men I am made a grief to the godly, a laughing-ſtock to the wicked, and a gazing-ſtock to all; yet bleſſed be my God not a terrour to my ſelf: although there be but a little between me and Death, yet this bears up my heart, there is but a little between me and Heaven: it comforted Dr <hi>Taylor</hi> the Martyr when he was going to Execution, <hi>That there were but two ſtales between him and his Fathers houſe; there is a leſſer way between me and my Fathers houſe; but two ſteps between me and Glory; it is but lying down upon the Block, and I ſhall aſcend upon a Throne: I am this day ſayling towards the Ocean of Eternity, through a rough paſſage to my Haven of reſt; through a Red-ſea to the Promiſed Land.</hi> Me thinks I hear God ſay to me as he did to <hi>Moſes, Go up to Mount</hi> Nebo <hi>and die there; ſo go thou up to</hi> Tower-hill <hi>and die there. Iſaac</hi> ſaid of himſelf that he was old, and yet he knew not the day of his death; but I cannot ſay thus<hi>:</hi> I am young, and yet I know the day of my death, and I know the kind of my death alſo, and the place of my death alſo; it is ſuch a kind of death as two famous Preachers of the Goſpel were put to before me, <hi>John</hi> the <hi>Baptiſt,</hi> and <hi>Paul</hi> the Apoſtle, they were both be<g ref="char:EOLhyphen"/>headed; ye have mention of the one in Scripture ſtory, and of the other in Eccleſiaſtical Hiſtory: And I read in the 20. of the <hi>Revelation,</hi> and the 4. <hi>The</hi>
+                  <pb n="2" facs="tcp:165938:2"/>
+                  <hi>Saints were beheaded for the Word of God, and for the Teſtimony of Jeſus.</hi> But herein is the diſadvantage which I am in in the thoughts of many, who judge that I ſuffer not for the Word, or for Conſcience, but for medling with State-matters. To this I ſhall briefly ſay; <hi>That it is an old guiſe of the Devil, to impute the cauſe of Gods Peoples ſufferings, to be Contrivements againſt the State, when in truth it is their Religion and Conſcience they are perſecuted for. The Rulers of</hi> Iſrael <hi>they would put</hi> Jeremiah <hi>to death upon a Civil account, though indeed it was onely the truth of his Propheſie made the Rulers angry with him: yet upon a Civil account they did pretend he muſt die, becauſe he fell away to the</hi> Caldeans, <hi>and would have brought in forreign forces to invade them: the ſame thing is laid to my charge, of which I am as innocent as</hi> Jeremiah <hi>was.</hi> I find other inſtances in the Scripture, wherein the main cauſes of their ſufferings were ſtill imputed to medling with State-matters; <hi>Paul,</hi> though he did but preach Jeſus Chriſt, yet he muſt die, if the people might have their will, under the pretence that he was a mover of Sedition. Upon a civil account my life is pretended to be taken away, whereas indeed it is becauſe I purſue my <hi>Covenant,</hi> and will not proſtitute my Principles and Conſcience to the ambition and luſts of men. Beloved, I am this day to make a dou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le exchange, I am changing a Pulpit for a Scaffold, and a Scaffold for a Throne; and I might add a third, I am changing this numerous multitude, the preſence of this numerous multitude upon <hi>Tower-Hill,</hi> for the innumerable company of Angels in the holy Hill of <hi>Zion;</hi> and I am changing a guard of Soldiers for a guard of Angels, which will receive me, and carry me into <hi>Abrahams</hi> boſom. This Scaffold is the beſt Pulpit I ever preached in; for in the Church-Pulpit, God through his Grace, made me an Inſtrument to bring others to heaven, but in this Pulpit he will bring me to heaven. Theſe are the laſt words that I ſhall ſpeak in this world, and it may be this laſt Speech upon a Scaffold may bring God more glory, then many Sermons in a Pulpit. <hi>Before I lay down my neck upon the block,</hi> I <hi>ſhall lay open my Caſe unto the people that hear me this day; and in doing it</hi> I <hi>ſhall avoid all rancour, all bitterneſſe of Spirit, animoſity and revenge; God is my record whom</hi> I <hi>ſerve in the ſpirit,</hi> I <hi>ſpeak the truth and lie not;</hi> I <hi>do not bring a revengeful heart unto the Scaffold this day; before</hi> I <hi>came here, upon my bended knees</hi> I <hi>have beg'd Mercy for them that denied mercy to me, and</hi> I <hi>have prayed God to forgive them who would not forgive me:</hi> I <hi>have forgiven from my heart the worſt Enemy</hi> I <hi>have in all the world, and this is the worſt that</hi> I <hi>wiſh to my Accuſers and Proſecutors who have purſued my blod, that</hi> I <hi>might met their ſouls in heaven,</hi> I <hi>ſhall divide my ſpeech into three parts; ſpeak ſomething concerning my Charge, and a word con<g ref="char:EOLhyphen"/>cerning my Accuſers, and touching my Judges, without any animoſity at all, and then ſomething concerning myſelf for my own vindication, and then a word of Ex<g ref="char:EOLhyphen"/>hortation; and ſo</hi> I <hi>ſhall commit my ſoul to God. Concerning my Charge, it is black</hi>
+                  <pb n="3" facs="tcp:165938:2"/>
+                  <hi>and hideous, many things falſly ſuggeſted but nothing capital ſufficiently proved by any one act that</hi> I <hi>am conſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ous to my ſelf, proved againſt me that </hi>I<hi>did. The charg was h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gh and full, but the Proof empty and low: though there were</hi> 8 <hi>Witneſſes that came in againſt me, yet none of them did prove that ever</hi> I <hi>writ any Letter, or di<g ref="char:EOLhyphen"/>rected any man to write a Letter into</hi> Scotland, <hi>or into forein parts. No man pro<g ref="char:EOLhyphen"/>ved, that</hi> I <hi>ſent away any Letter, that</hi> I <hi>received any Letter, that</hi> I <hi>collected, or gave, or lent any money to aſſiſt or promote the Scotiſh War. This is all that was ſworn againſt me, that</hi> I <hi>was preſent when Letters were read, that</hi> I <hi>made a moti<g ref="char:EOLhyphen"/>on for money to give to</hi> Maſſey <hi>ſo that Beloved, my preſence at, and concealment of Letters that were received and ſent from forreign parts.</hi>
+               </p>
+               <p>
+                  <stage>There being a diſturbance amongſt the people, he ſaid,</stage> I <hi>am amuſed,</hi> I <hi>muſt break off, things are true.</hi> 
+                  <stage>But the tumult being appeaſed, he went on, ſaying;</stage> 
+                  <hi>As concerning my Accuſers</hi> I <hi>ſhall not ſay much,</hi> I <hi>do forgive them, and</hi> I <hi>pray God forgive them alſo: yet what the Evangeliſt obſerves concerning Chriſts Accu<g ref="char:EOLhyphen"/>ſers,</hi> I <hi>may without vanity or falſhood ſay of mine, that they did not agree among themſelves; yea not onely contradicting one another, but ſometimes a Witneſſe contradicted himſelf. And though their teſtimony did condemn my perſon, yet</hi> I <hi>have condemned their teſtimony; and truly there are many remarkable Ciocumſtances that</hi> I <hi>might take notice of, either in, or before, or ſince the tryall, that might be worthy of obſervation; but</hi> I <hi>will not inſiſt upon them, onely is the general, ſome of them have ſent to me to pray me to forgive them the wrong they have done me. One of them hath written to me under his own hand, to pray me to forgive him the wrong he hath done me; and told me withall, that that day</hi> I <hi>ſhould die a violent death, his life would be no comfort to him, becauſe he was an inſtrument in taking away mine. Others of my Witneſſes, they were ſome terrified before they would te<g ref="char:EOLhyphen"/>ſtifie, ſome hired, ſome fined before they would bear witneſs againſt me; but</hi> I <hi>will forgive them. As concerning my Judges,</hi> I <hi>will not judge them, and yet</hi> I <hi>will not juſtifie them,</hi> I <hi>believe that what moved</hi> Herod <hi>to cut off</hi> John Baptiſts <hi>head, mo<g ref="char:EOLhyphen"/>ved them to cut off mine, and that was for his Oaths ſake,</hi> John Baptiſts <hi>[meaning</hi> Herod] <hi>to avoid perjury, he would commit murther, whereas if</hi> John Baptiſts <hi>head had been upon his ſhoulders, he would have been guilty of neither.</hi>
+               </p>
+               <p>I have ſomething in the ſecond place to ſpeak concerning my ſelf, and then I ſhall come briefly to a concluſion. Concerning my ſelf, I have gone through various reports<hi>:</hi> There are many ſons of ſlander, whoſe mouths are as an open Sepulchre to bury my name before my friends can bury my body. My com<g ref="char:EOLhyphen"/>fort is, there will be a Reſurrection of Names as well as Bodies at the laſt Day; God will not onely wipe off tears from mine eyes this day, but wipe off all blots and reproaches from my Name before many dayes be over; and though my body will ſoon rot under ground, yet my hope is my name will not rot above it<hi>:</hi> I am not ignorant what Calumnies are caſt upon me, and
+<pb n="4" facs="tcp:165938:3"/>
+more likely to be after I am dead and gone. The very night before my inten<g ref="char:EOLhyphen"/>ded execution the laſt moneth, there was an inſulting Letter written to me to tell me, That after I was dead there ſhould be ſomething publiſhed againſt me to my ſhame I hope you will have ſo much charity as not to believe Re<g ref="char:EOLhyphen"/>proaches caſt upon a dead man, who will be ſilent in the grave, and not able to ſpeak a word in his own juſtification. I am aſperſed both as to my Practices and as to my Principles.</p>
+               <p>I ſhall begin with the firſt<hi>:</hi> There are five Aſperſions as to my practices that are laid upon me<hi>:</hi> Firſt, that I am a Lyar, that I am an Extortioner, that I am an Adulterer, that I am a Murtherer, and that I am a turbulent perſon; crimes ſcandalous in any man, but much more abominable in a Miniſter.</p>
+               <p>Now I hope you will believe a dying man, who dare not look God in the face with a lie in his mouth. I am accuſed of lying, that what I denied before the high Court of Juſtice, that afterwards I ſhould confeſs, or elſe was proved againſt me: Now in the preſence of God I tell you, as I would confeſs nothing that was criminal, ſo I did deny nothing that was true, and that I might it ſeal to you with my bloud; what I did deny, the Proteſtations I made before the Court, I make them briefly now, That I never writ Letter to the King, Queen, Church or State of <hi>Scotland,</hi> or to any particular perſon of the Scot<g ref="char:EOLhyphen"/>tiſh Nation ſince the wars began to this day<hi>:</hi> That I never received any Let<g ref="char:EOLhyphen"/>ter writ to me, either from the King, Queen, Church or State of <hi>Scotland,</hi> or from any particular perſon of the Scottiſh Nation<hi>:</hi> That I never collected, gave, or lent any money either to the King, Queen, or State of <hi>Scotland.</hi> It is true, I confeſſed though it was not proved, and haply upon that ground the miſtake might riſe, I did give money to <hi>Maſſey,</hi> but he is of the Engliſh, not of the Scottiſh Nation, and I did write a Letter to him, but he is of the Engliſh not of the Stottiſh Nation. That for which I here come, is for moving onely for money for him, and for being preſent when Letters were read from him and others; and I am ſo far (though man hath condemned me) from think<g ref="char:EOLhyphen"/>ing that either God or my own Conſcience condemnes me for a ſin in what I am condemned for, that God and my own Conſcience acquits me; and what I ſaid at the Bar when I received my Sentence that now is to be execu<g ref="char:EOLhyphen"/>ted, I ſhall ſay now upon the Scaffold. That for the things I am condemned, neither doth God or my own Conſcience condemn me.</p>
+               <p>The next particular, I am accuſed to be an Extortioner, and this is in the mouthes, I am loth to name them becauſe I would not ſhew rancour, but I am charged as if I ſhould be a grievous Extortioner, to receive 30 l. for the loan of 300 l. beſides 8 l. in the hundred for intereſt, which in the preſence of God, and of you all, I do declare to you, is a moſt notorious and abominable
+<pb n="5" facs="tcp:165938:3"/>
+falſhood. I am accuſed likewiſe to be an Adulterer; and that this Report is not in the mouthes of mean men, but in the mouthes of thoſe that ſit at ſtern, as if I were a debauched perſon, and were guilty of uncleanneſs. Now I tell you through the grace of God, as <hi>Luther</hi> ſaid of himſelf in another caſe, <hi>That he was not tempted to covetouſneſs,</hi> through the grace of God I can ſay, <hi>I was not tempted in all my life to uncleanneſs.</hi> It doth not much grieve me though theſe ſlanders lye upon me: I know my betters have been worſe accuſed before me. <hi>Athanaſius</hi> he was accuſed by two harlots that he had committed folly with them, and yet the man was chaſt and innocent. <hi>Beza</hi> was charged not onely of Drunkenneſs, but of Laſciviouſneſſe alſo.</p>
+               <p>But that which goes neareſt my heart, <hi>I</hi> am accuſed to be a Murtherer alſo and this is a Charge high indeed; <hi>I</hi> am charged with the guilt of all the blood of <hi>Scotland,</hi> whereas if <hi>I</hi> did lye under the guilt of one drop of blood, <hi>I</hi> could not look upon you with ſo chearfull a countenance, and could not be filled with ſo peaceable a Heart and Conſcience as <hi>I</hi> am at this day, <hi>I</hi> bleſſe my God <hi>I</hi> am free from the blood of all, indeed thoſe that lay this to my charge, they do to me as <hi>Nero</hi> did to the Chriſtians, he put <hi>Rome</hi> on fire, and then charged the Chriſtians with it, ſo they put England and Scotland into a flamt, and charge me with the guilt of that blood, who have poured teares to God night and day to quench the burning which ſome mens ambi<g ref="char:EOLhyphen"/>tion and Luſts have kindled.</p>
+               <p>
+                  <hi>I</hi> would faine know of any man what act it is, <hi>I</hi> have done, what was it was proved in the high Court againſt me to make me guilty of Scotland's blood? Did <hi>I</hi> ever invite the Scots to invade Englandd, what man did lay that to my charge? Did <hi>I</hi> ever encourage our Engliſh Army to invade Scotland? What action is it that I have done that makes me guilty of the blood? Indeed this I have done, and this I own, and this I ſtand to; I have as a p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivate man prayed unto God many a day, and kept many a Faſt, where<g ref="char:EOLhyphen"/>in I have ſought God; that there might be an Agreement between the K. and the Scots upon the intereſt of Religion, and the terms of the Covenant. Now by what conſequence can this be ſtrained to charge me with Scotlands blood; For my part, I was but only at one Meeting where that Queſtion was propoſed (Faſts onely excepted) what ſhould be thought fit to be done to promote the agreement between the King and the Scots, and that was moved in my houſe, and to that end when there were ſome things there produced which they called a Commiſſion and Inſtructions to ſend to Hol<g ref="char:EOLhyphen"/>land; as ſoon as ever I heard them, I did declare againſt them: I did de<g ref="char:EOLhyphen"/>clare that it was an act of high preſumption for private per<g ref="char:EOLhyphen"/>ſons to commiſſionate, and an act of notorious falſhood to ſay, it was in the Name of the Prhsbyterian Party, when none knew of it as I know, but
+<pb n="6" facs="tcp:165938:4"/>
+onely thoſe few that were then preſent. Now this is onely a politique En<g ref="char:EOLhyphen"/>gine to make the Presbyterian Party odious, who are the beſt friends to a wellordered Government of any ſort of people in the world.</p>
+               <p>I am accuſed likewiſe to be a man of a turbulent ſpirit, to be an enemy to the Peace and Quiet of the Nation.</p>
+               <p>Now to this I would be judged, let my Congregationall and my Dome<g ref="char:EOLhyphen"/>meſticall Relations judge for me, whether I am not a man that would fain have lived quiet in the Land: I am, as Jeremy was, born a man of conten<g ref="char:EOLhyphen"/>tion, not actively, I contend, I ſtrive with none, but paſsively, many ſtrive and contend with me; God is my witneſſe, my judgement hath put me up<g ref="char:EOLhyphen"/>on endeavors after all honourable and juſt wayes, for peace and love among the godly.</p>
+               <p>The grief of my heart hath been for the Diviſion, and the deſire of my ſoul for a Union amongſt Gods People. And when I ſpeak of a Union I would not be miſunderſtood: I do not meane a State-union to engage to the pre<g ref="char:EOLhyphen"/>ſent Power, that is againſt my Principle, that is to ſay, a Confedracy with them that ſay a Confedracy that is rather a Combination then a Goſpel u<g ref="char:EOLhyphen"/>nion. Thoſe who have gotten power into their hands by policy, and uſe it by cruelty, they will loſe it with Ignominy.</p>
+            </sp>
+            <sp>
+               <speaker>Sher. Titchburne,</speaker>
+               <p>Sir, be modeſt<hi>:</hi> I am not able to endure this, indeed <hi>I</hi> am not.</p>
+            </sp>
+            <sp>
+               <speaker>Love.</speaker>
+               <p>Sir, I ſhall look God in the face with what I ſay. (Beloved) I am afraid of your union which I plead for, to wit, a Church union (I am ſtop<g ref="char:EOLhyphen"/>ped in many things) a Church union, to wit, love among the Godly. This is it the deſires of my ſoul have been ever for, that thoſe that feare God might walk hand in hand in the fellowſhip of the Goſpel, both in truth and love<hi>:</hi> if this Union be not, I am afraid through our diviſions a company of looſe Libertines will riſe, who will riſe, who will endeavour not onely to overthrow Doctrines of Faith and Religion and Maners <hi>but then correcting, himſelf, he ſaid)</hi> Doctrines of Faith and the power of Godlineſſe, but even good manners alſo.</p>
+               <p>I remember an obſervation of Holy <hi>Greenham,</hi> giving his judgement up<g ref="char:EOLhyphen"/>on the State of <hi>England,</hi> he ſaid thus, <hi>There is a great feare of Popery com<g ref="char:EOLhyphen"/>ming into</hi> England, I fear that too; but I fear more the coming of Atheiſm into <hi>England,</hi> then the coming in of Popery, and truly that is my feare alſo. Thus a: to my practiſes.</p>
+               <p>A word now as to my Principles.</p>
+               <p>
+                  <hi>I am accuſed to be an Apoſtate, to be a Turn-coat, to be this to be that, to be a<g ref="char:EOLhyphen"/>ny thing, but what I am In the Generall I will tell you, That I bleſſe my God, an high Court, a long Sword, a bloody Scaffold, hath not made me in the leaſt to</hi>
+                  <pb n="7" facs="tcp:165938:4"/>
+                  <hi>alter my Principles, or to wrong my Conſcien<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. And that I might diſcover to you my Principles,</hi> I <hi>hope I ſhall do it with freedome,</hi> I <hi>will irritate and provoke none: what</hi> I <hi>ſhall ſay, ſhall not be an irritation, or provocation of others, (at leaſt not intended by me) but onely as a genuine and clear Manifeſtation of my principles how they ſtand.</hi>
+               </p>
+               <p>
+                  <hi>Firſt, Then my Principles; as to Civill and Religious Affairs,</hi> I <hi>declare, that I die with my Judgement ſet againſt Malignity, I do hate both name and thing, I ſtill retain as vehement a deteſtation of a Malignant intereſt, as ever</hi> I <hi>did; yet</hi> I <hi>would not be miſunderſtood:</hi> I <hi>do not count the Godly party, our Cove<g ref="char:EOLhyphen"/>nanting Brethren in Scotland,</hi> I <hi>do not count them a Malignant party, nor their defending their Nation, and Title to their King, to be a Malignant Intereſt, but an honeſt and a juſtifiable Cauſe.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, I am of this judgement (though I am againſt Malignity) yet I am not againſt, but for a regulated Monarchy; a mixt Monarchie, as ours was, I judge to be one of the beſt Governments in the world; I did (it is true) oppoſe in my Place and Calling, the Forces of the late King and were he alive againe, and ſhould I live longer, the Cauſe being as then it was, I ſhould oppoſe him longer. I did oppoſe his Forces, but never was againſt the Office: I doe as much hate Court-Paraſites, who would ſcrew up Monarchy into Tyranny, as thoſe who pull it down to bring in Anarchy: Thirdly, I was never for putting the King to death, whoſe Perſon I did promiſe in my Covenant to preſerve. It is true,</hi> I <hi>did in my Place and Calling oppoſe his Forces, but</hi> I <hi>did never endeavour to de<g ref="char:EOLhyphen"/>ſtroy his Perſon. There is a ſcandall raiſed of me, That in a Sermon at Wind<g ref="char:EOLhyphen"/>ſor</hi> I <hi>ſhould have theſe words,</hi> [That it would never be well with <hi>England,</hi> till the King were let blood in the Neck-veine] <hi>Which in the preſence of God, and of you all,</hi> I <hi>never ſpoke ſuch words, as relating to him, though my judge<g ref="char:EOLhyphen"/>ment then was, and ſtill is for bringing Malignants, who did ſeduce him and draw him from the Parliament, to condign puniſhment.</hi> I <hi>deem it an ill way to cure the Body Politique, by cutting off the Politicall head. Fourthly,</hi> I <hi>die with my judgement not ſatisfied to take the Ingagement,</hi> I <hi>pray God forgive them that impoſe it and ſubſcribe it, and preſerve thoſe that refuſe it.</hi> I <hi>would not (in the next place) be looked upon, now</hi> I <hi>am a dying man.</hi> I <hi>would not be looked upon as a man owning this preſent Government,</hi> I <hi>die with my judgement againſt it. It is true, in a cuſe of Life,</hi> I <hi>did petition the preſent Power, and did give them the Titles they take to themſelves, and other men give them; but here in</hi> I <hi>did not wrong, nor croſſe my Principles: There are many inſtances in the Scripture to juſtifie this,</hi> Huſhai <hi>did give the Title to</hi> Abſolon, <hi>though</hi> Abſolon <hi>had no right to the Title:</hi> David <hi>was the lawfull King, and</hi> David <hi>himſelfe gave him the Title as well as</hi> Huſhai<hi>: And</hi> Calvin <hi>he gave a Title to the French King,</hi>
+                  <pb n="8" facs="tcp:165938:5"/>
+                  <hi>calling him</hi> Rex Chriſtianiſſimus, <hi>The moſt Chriſtian King; yet he knew he was a Papiſt: And we gave a Title to King</hi> Henry <hi>the Eighth, to call him,</hi> The Defender of the Faith; <hi>and yet he had no right to the Title, he was an oppo<g ref="char:EOLhyphen"/>ſer, not a Defender of the Faith: The Title was given him upon an evill ground, becauſe he oppoſed the Faith; he oppoſed the Doctrine of</hi> Luther, <hi>and therefore the Pope gave him the Title</hi> [The Defender of the Faith] <hi>and yet none did ſcruple to give him the Title that was then commonly given him.</hi>
+               </p>
+               <p>
+                  <hi>In the next place,</hi> I <hi>diſcover my judgement;</hi> I <hi>provoke none, only tell you what my own thoughts are, That ſo after</hi> I <hi>am dead and gone,</hi> I <hi>might not be belied, for I dare not now bely my Principles: My judgement is againſt the invaſion of the Scottiſh Nation by our Engliſh Army: They who gave us a friendly Aſſi<g ref="char:EOLhyphen"/>ſtance, who were joyned with us in the ſame Covenant, who drew a Swo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with us in the ſame quarrel ſhould</hi> I <hi>live a thouſand yeares,</hi> I <hi>ſhould never draw a Sword againſt them in all my life. Scotland may ſay as it was ſaid of Edem,</hi> The men of my Confedracy that were at Peace with me, have riſen up againſt me, deceived me and prevailed againſt me. <hi>Becauſe</hi> Scotland <hi>well not be a Commonwealth they ſhall not be a people; becauſe they will not break Covenants, ſome men would have them broken; becauſe they will not lay their Conſciences waſte, their Land muſt be laid waſte.</hi>
+               </p>
+               <p>
+                  <hi>Laſtly, And ſo</hi> I <hi>have done, onely with a word of Exhortation. I die cleaving to all thoſe Oathes, Vowes, Covenants and Proteſtations, that were impoſed by the Two Houſes of Parliament, as owning them, and dying with my judgement for them; The Vow and Covenant, the Proteſtation, The Solemn League and Co<g ref="char:EOLhyphen"/>venant: And this I tell you all, I had rather die a Covenant keeper, then live a Covenant breaker.</hi>
+               </p>
+               <p>
+                  <hi>I have one word more to ſay I am come to the third and laſt part of my Speech, and ſo I ſhall have done, and commit my ſoul unto God who gave it, My Exhortationit ſhall be to this great City, unto the Godly Miniſtry of it, and unto my owne Congre<g ref="char:EOLhyphen"/>gation, from whom Death hath parted me, which nothing elſe could.</hi>
+               </p>
+               <p>
+                  <hi>To the City, I wiſh an affluence and a confluence of all bleſſings, and yet I fear gray hairs as the Symtoms of a Declenſion, are here and there upon it: yet ſhe knows it not:</hi> O London London: <hi>God is ſtaining the pride of all thy Glory, thy Glory is flying awaylike a Bird, contempt of the Miniſtry<g ref="char:punc">▪</g> oppoſition againſt Reformation generall Apoſtacy, Covenant breaking have brought</hi> London <hi>low, and I feare will bring it lower, I tremble to think what evils are coming upon it. This City: it is the Receptacle of all Errors. That as your Commodities have been vented and ſpread from hence in every corner of the Land, ſo have Hereſies and Blaſphemies had their firſt riſe from this great and populus City and ſpread into all the Country.</hi>
+               </p>
+               <p>
+                  <hi>To the Inhabitants of this City,</hi> I <hi>commend but theſe few Particulars.</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:165938:5"/>
+Firſt, Let me beg you to love your painful and your godly Miniſters, if they be taken away, you are like to have worſe come in their rooms: I know the Presbyterian Miniſters are the great eye ſore, who have for<g ref="char:EOLhyphen"/>merly been counted the Chariots, and the Horſmen of Iſrael. But I will ſay to <hi>London,</hi> as was ſaid to <hi>Leyden,</hi> That after <hi>Junius</hi> was taken away (an Orthodox Miniſter) <hi>Arminius</hi> that peſtilent Heretick came in his room; if your godly Miniſters (as there are ten already at one blowe taken from you) if they be taken away, Arminians, Anabaptiſts, nay Jeſuits are like to ſupply their rooms, if God in mercy prevent not.</p>
+               <p>2ly, Submit your ſelves to Church government, that would lay a curb and reſtraint upon your luſts, it is a golden, and an eaſie yoke, to which if you do not ſubmit, God may lay an heavier, an iron yoke up<g ref="char:EOLhyphen"/>on your necks.</p>
+               <p>3ly, Take heed of thoſe Doctrines that come under the Notion of New Lights; I have judged that thoſe Doctrines you ought to ſuſpect whether they be true, when the brocher of them ſaith it is New; for Truth, it is as old as the Bible: A remarkable paſſage I would ſuggeſt unto you, in <hi>Deut.</hi> 32. it is ſaid there, <hi>They choſe them new gods,</hi> that were newly ſprung up; what were theſe new gods? the next words tell you, they were old devils, <hi>they ſacrificed to devils, not to God:</hi> Now their <hi>Sacri<g ref="char:EOLhyphen"/>ficing</hi> to the old Devil, it was called a <hi>Sacrificing</hi> (to deceive the people) to new gods that were newly come up; new gods, they were but the old devils: So <hi>I</hi> ſay of many of thoſe things that go under the notion of New Lights, it is but old darkneſs, old Hereſies raked out of the Dung<g ref="char:EOLhyphen"/>hil, which were buried in former ages in the Church, with contempt and reproach many hundred years ago. Again,</p>
+               <p>Fourthly, Bewail your great loſſe that you have in the taking away of ſo many Miniſters out of your City: there are ten Miniſters (if <hi>I</hi> miſtake not) that are taken away and removed in one blow; thoſe who were burning and ſhining Lights in their ſevreall Candleſticks, and Bright Stars in their ſeverall Orbs; though <hi>I</hi> am not worthy of the world, therefore <hi>I</hi> am taken out of it; yet as for my ſuffering Brethren who are now in Bonds &amp; Baniſhment, the world is not worthy of them.</p>
+               <p>Again, in the next place, take heed how you be forward in ingaging in a War with your godly Brethren in the Scottiſh Nation; for my part, I have oppoſed the Tyrany of a King, but <hi>I</hi> never oppoſed the Title: take heed what you do.</p>
+               <p>I have ſomething in the next place to ſpeak to the godly Miniſtery of this City, were it not that I were a dying man, I would not ſpeak to ſuch reverend and grave men; I would, as <hi>Elihu</hi> being but a yong man,
+<pb n="10" facs="tcp:165938:6"/>
+I would ſay, <hi>Multitudes of yeers ſhould teach wiſdom,</hi> and I would hold my tongue; but the words of a dying man take, whether they be diſcreet or no, or ſo well ordered and managed or no; for them, I would firſt deſire God to ſhew them mercy, they that have begged for mercy for me at the day of my death, I will beg but this of them, That as they have not been aſhamed of my Chain, ſo they would now wax confident by my Bonds and by my Blood; I know they are maligned and threatned, yet my Prayer is for them, that in <hi>Act.</hi> 4. 29. <hi>Now Lord, behold their threat<g ref="char:EOLhyphen"/>nings, &amp; grant that thy Servants may Preach thy word with all boldneſs:</hi> Though I am but yong, yet I will offer my yong experience to my grave Fathers and Brethren, and that is this; Now I am to dye, I have abundant peace in my own Conſcience, that I have ſet my ſelf againſt the Sins and Apoſtacies of this preſent Age<hi>:</hi> It is true, my faithfulneſſe hath procu<g ref="char:EOLhyphen"/>red me ill will from men, but it hath purchaſed me peace with God, I have lived in peace, and I ſhall dye in peace: That which I have to be<g ref="char:EOLhyphen"/>ſeech of the Miniſters is this, To beg them to keep up Church govern<g ref="char:EOLhyphen"/>ment: Whatſoever God doth with the governments of the world, turn<g ref="char:EOLhyphen"/>ing Kingdoms upſide down, yet the Government of the Church will ſtand; And of all Governments, I dye with this perſwaſion, That the Presbyterial Government makes moſt for Purity and Unity through<g ref="char:EOLhyphen"/>out the Churches of the Saints: I would beg them therefore to keep up Church Government; That they would not let their Elderſhips fall; That they would take heed of too generall Admiſſions to the Lords-Supper; That they be not too prodigal of the Blood of Chriſt, by too generall Admiſſions of men to partake of the Supper, that Sealing Or<g ref="char:EOLhyphen"/>dinance: And now I am ſpeaking to them, I ſhall ſpeak a word of them, and ſo I have done.</p>
+               <p>I have heard many clamors ſince I came to Priſon, as if that Plot (which it is called) that I am condemned for, as if all the City Mini<g ref="char:EOLhyphen"/>ſters they were engaged in this Deſign, which as a dying man I tel you, That all the Miniſters that were preſent at the meeting, and had a hand in that buſineſs for which I am to be put to death, all thoſe Mi<g ref="char:EOLhyphen"/>niſters, they are either in Priſon, or they are diſcovered already; and therfore, I do here upon my death free the Miniſters of the City, That thoſe who are not yet in trouble, nor diſcovered to the Committee of Examinations, none of them had a hand in that buſineſs in which I was ingaged, in which my conſcience doth tell me I have not ſinned.</p>
+               <p>I have now (I have done immediately, for I would fain be at my Fa<g ref="char:EOLhyphen"/>thers houſe) but a word to ſpeak to my own Congregation, and I do return praiſes unto God, and thankſgiving unto him, for the love I have
+<pb n="11" facs="tcp:165938:6"/>
+had from them; I found them a ſolid and a judicious people, and many of them Religious: The Miniſtery of that learned man Mr. <hi>Anthony Burges</hi> did much good amongſt them, though I have cauſe to be hum<g ref="char:EOLhyphen"/>bled, my weak Miniſtery did but little; they afforded me a great deal of love, and a liberal maintenance: And this is all I deſire of them, That they would chuſe a godly, learned, and an Orthodox Miniſter to ſuc<g ref="char:EOLhyphen"/>ceed; it would be a great comfort to me before I go to Heaven, if I had this perſwaſion, that a learned, Orthodox, godly man ſhould fill that Pulpit. And for encouragement to any godly Miniſter, whoſe lot it ſhall be to ſucceed me, I will ſay this to him, That he will have as com<g ref="char:EOLhyphen"/>fortable a livelihood, and as loving a people, as any people in <hi>London,</hi> (a few only excepted;) I had as much ſatisfaction amongſt them, as ever I had in any condition in all my life, and ſhould never have parted from them, had not now death parted us, to which I do ſubmit with all Chriſtian meekneſs and cheerfulneſs.</p>
+               <p>I am now drawing to an end of my Speech, and to an end of my life together<hi>:</hi> But before I do expire my laſt breath, I ſhall deſire to juſtifie God, and to condemn my ſelf. Here I come to that which you call an untimely end, and a ſhameful death; but bleſſed be God, it is my glory, and it is my comfort; I ſhall juſtifie God; he is righteous, becauſe I have ſinned; he is righteous, though he doth cut me off in the midſt of my dayes, and in the midſt of my Miniſtry. I cannot complain that Com<g ref="char:EOLhyphen"/>plaint in the Pſalmiſt, in the 44 <hi>Pſalm, Thou ſellest thy people for nought, and dost not increaſe thy wealth by their price.</hi> My blood it ſhall not be ſpilt for nought; I may do more good by my death, then by my life, and glori<g ref="char:EOLhyphen"/>fie God more in dying upon a Scaffold, then if I had dyed of a Diſeaſe upon my bed. I bleſs my God I have not the leaſt trouble upon my ſpi<g ref="char:EOLhyphen"/>rit; but I dye with as much quietneſs of mind, lie down I hope I ſhall upon the Block, as if I were going to lie down upon my Bed to take my reſt. I ſee men hunger after my fleſh, and thirſt after my blood, which will haſten my happineſs, and their ruine, and greaten their guilt: For though I am a man of an obſcure Family, of mean Parentage, ſo that my blood is not as the blood of Nobles; yet I will ſay, mine is a Chri<g ref="char:EOLhyphen"/>ſtians blood, a Miniſters blood, yea it is innocent blood alſo<hi>:</hi> My blood, my body, my dead body, it will be a morſel which I believe will hardly be digeſted, and my blood it will be bad food for this Infant Com<g ref="char:EOLhyphen"/>mon-wealth (as Mr. <hi>Prideaux</hi> called it) for this infant Common-wealth to ſuck on: Mine is not Malignant blood, though here I am brought as a grievous and notorious Offender.</p>
+               <p>Now Beloved, I ſhal not only juſtifie God (as I do without a Comple<g ref="char:EOLhyphen"/>ment,)
+<pb n="12" facs="tcp:165938:7"/>
+for he is very Juſt, that my Priſon was not my Hell, that this Scaffold is not the bottomleſs pit, I have deſerved both, I have deſerved it: I do not only juſtifie God, but I deſire this day to magnifie God, to magnifie the riches of his grace, that ſuch a one as I, born in an obſcure Country in <hi>Wales,</hi> of obſcure Parents, that God ſhould look upon me, and ſingle me out from among all my kindred, ſingle me out to be an Object of his everlaſting Love; that when for the firſt fourteen years of my life I never heard a Sermon, and yet in the fifteenth year of my life, God through his grace did convert me<hi>:</hi> and I here ſpeak it without va<g ref="char:EOLhyphen"/>nity (what ſhould a dying man be proud of?) for theſe twenty yea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, though I am accuſed of many ſcandalous evils, I ſpeak it to the praiſe and glory of my God, for theſe twenty years God hath kept me, I have not fallen into a ſcandalous ſin; I have laboured to keep a good Conſcience from my youth up: I magnifie his grace, that he hath not only made me a Chriſtian but made me a Miniſter, judged me faithful, and put me into the Miniſtry; &amp; though the Office be troden upon, and diſgraced, yet it is my glory, that I dye a deſpiſed Miniſter: I had ra<g ref="char:EOLhyphen"/>ther be a Preacher in a Pulpit, then a Prince upon a Throne; I had ra<g ref="char:EOLhyphen"/>ther be an inſtrument to bring Souls to Heaven, then to have all the Nations to bring in tribute to me. I am not only a Chriſtian, and a Preacher, but, what ever men judg me, I am a Martyr too, I ſpeak it without vanity: Would I have renounced my Covenant, and debauch<g ref="char:EOLhyphen"/>ed my Conſcience, and ventured my Soul, there might have been more hopes of ſaving my life, that I ſhould not have come to this place: but bleſſed be my God, I have made the beſt choice, I have choſen affliction rather then Sin; and therefore welcome Scaffold, and welcome Ax, and welcome Death, welcome Block, welcome all, becauſe it will ſend me to my Fathers Houſe.</p>
+               <p>I have great cauſe to magnifie Gods Grace, that he hath ſtood by me during my impriſonment<hi>:</hi> It hath been a time of no little temptation to me, and yet, bleſſed be his grace, he hath ſtrengthened, and ſtood by me: I magnifie his grace, that though now I come to dye a violent death, yet that death is not a terror to me; through the blood of ſprinkling the fear of Death is taken out of my heart: God is not a terror to me, therefore Death is not dreadful to me. I bleſs my God (I ſpeak it without vanity) I have formerly had more fear in the drawing of a tooth, then now I have in the cutting off my Head. I was for ſome years, five or ſix, under a ſpirit of bondage, and did for Death exceed<g ref="char:EOLhyphen"/>ingly; but then when the fear of Death was upon me, Death was not neer me: but now Death is neer me, (bleſſed be my Saviour) he hath
+<pb n="13" facs="tcp:165938:7"/>
+the ſting of Death in his own ſides, and ſo makes the grave a bed of reſt to me; and makes Death, the laſt Enemy, to be a friend, though he be a grim friend. I bleſs God further, that though I am to be caſt out of the world; I bleſs my God, though men judg me to be caſt out of the world; yet that God hath not caſt me out of the hearts and prayers of his people. I had rather be caſt out of the world, then be caſt out of the heart of any godly man. Some think me (is true) not worthy to live, and yet others Judg, I do not deſerve to dye; but God will judg all men, I will judg none.</p>
+               <p>I have now done; I have no more to ſay, but to deſire the help of all your prayers; that God would give me the continuance and ſupply of divine grace to carrying through this great work I am now to do; That I, who am to do a work I never did, I may have a ſtrength that I never had; That I may put off this Body with as much quietneſs and comfort of mind, as ever I put off my clothes to go to bed. And now I am to commend my Soul to God, and to receive my fatal blow: I am com<g ref="char:EOLhyphen"/>forted in this, though men kill me, they cannot damn me; and though they thruſt me out of the world, yet they cannot ſhut me out of Heaven. I am now going to my long home, and you are going to your ſhort homes: but <hi>I</hi> will tell you, <hi>I</hi> ſhall be at home before you, <hi>I</hi> ſhall be at Heaven, my Fathers Houſe, before you wil be at your own Houſes. Now <hi>I</hi> am going to the Heavenly <hi>Jeruſalem,</hi> to the innumerable company of Angels, to Jeſus Chriſt the Mediator of the new Covenant, to the ſpi<g ref="char:EOLhyphen"/>rits of all men made perfect, to God the judg of all; in whoſe preſence there is fulneſs of Joy, and at whoſe right hand there are pleaſures for evermore. I ſhall conclude.</p>
+            </sp>
+            <p>
+               <hi>But when Mr. Sheriff</hi> Tichburn <hi>telling him, that the words were,</hi> the ſpi<g ref="char:EOLhyphen"/>rits of juſt men made perfect.</p>
+            <sp>
+               <speaker>Love.</speaker>
+               <stage>
+                  <p>
+                     <hi>He then corrected himſelf. ſaying,</hi>
+                  </p>
+               </stage>
+               <p>To the ſpirits of juſt men made perfect, and to God the Judg of all; in whoſe preſence there is fulneſs of joy, and in whoſe rrght hand the eare pleaſures for evermore.</p>
+               <p>
+                  <hi>I</hi> conclude with that ſpeech of the Apoſtle: <hi>I am now</hi> (in 2 <hi>Tim.</hi> 4. 6, 7. <hi>I am now) to be offered up, and the time of my departure is at hand;</hi> but <hi>I have fi<g ref="char:EOLhyphen"/>niſhed my courſe, I have kept the Faith; Henceforth there is a crown of righteouſ<g ref="char:EOLhyphen"/>neſs laid up for me; and not for me only, but for all them that love the appearing of our L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd Jeſus Chriſt;</hi> through whoſe blood (when I have ſhed my blood) I expect ſalvation, and remiſſion of ſins. And ſo the Lord bleſs you all.</p>
+               <stage>Then turning to Mr Sheriff, he ſaid;</stage>
+               <p>May <hi>I</hi> pray?</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:165938:8"/>
+               <speaker>
+                  <hi>Sheriff</hi> Tichburn.</speaker>
+               <p>
+                  <hi>Yes: but conſider the time.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Love.</speaker>
+               <p>
+                  <hi>I</hi> have done Sir.</p>
+               <stage>
+                  <p>
+                     <hi>Then turning to the pleople, he ſaid;</hi>
+                  </p>
+               </stage>
+               <p>Beloved, <hi>I</hi> will but pray a little while with you, to commend my ſoul to God, and I have done.</p>
+            </sp>
+            <p>
+               <hi>Then Mr</hi> Aſh <hi>told him:</hi>
+            </p>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Aſh,</speaker>
+               <p>
+                  <hi>the Houſe is riſen, and therefore—</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Love.</speaker>
+               <stage>
+                  <hi>To which Mr</hi> Love <hi>anſwered,</hi>
+               </stage>
+               <p>
+                  <hi>I, I,</hi> Sir. <hi>After which he prayed with an audible voice, ſaying,</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>Mr. <hi>Loves</hi> Prayer.</head>
+                           <p>MOſt Glorious and eternal Majeſty, Thou art righteous and holy in all thou doeſt to the Sons of Men; though thou haſt ſuffered men to condemne thy ſervant, thy ſervant will not condemne thee; He juſtifieth thee, though thou cutteſt him off in the midſt of his dayes, and in the midſt of his Miniſtry; bleſ<g ref="char:EOLhyphen"/>ſing thy glorious Name, that though his name be taken away from the Land of the Living, that yet he is not blotted out of the Booke of the Living, Father, my hour is come, thy poor creature can ſay without vanity and falſhood, he hath de<g ref="char:EOLhyphen"/>ſired to glorifie thee upon the earth, glorifie thou now him in Heaven. He hath deſired to bring the ſouls of other men to heaven, let his ſoul be brought to heaven. O thou bleſſed God, whom thy creature hath ſerved, who hath made thee his hope, and his confidence from his youth; forſake him not now he is drawing nigh to thee; now he is in the valley of the ſhadow of death, Lord be thou life to him; ſmile thou upon him while men frown on him<g ref="char:punc">▪</g> Lord thou hast ſettled this perſwaſion in his heart, That as ſoon as ever the blow is given to divide his Head from his Body, he ſhall be united to his Head in Heaven. Bleſſed be God that thy ſervant dyes in thoſe hopes. Bleſſed be God, that thou hast filled the ſoul of thy ſervant with joy and peace in beleeving. O Lord, think upon that poor Brother of mine, that is a companion in tribulation with me, who is this day to loſe his life as well as I: O fill him full of the joy of the Holy Ghost, when he is to give up the Ghost: Lord, ſtrengthen our hearts, that we may give up the ghost with joy, and not with grief. We intreat thee, O Lord, think upon thy poor Churches: O that <hi>England</hi> might live in thy ſight; and O that <hi>London</hi> might be a faithfull City to thee; that righ<g ref="char:EOLhyphen"/>teouſnes might be amongſt them: that ſo peace and plenty may be within their wals, and righteouſneſs within their habitation. Lord, heal up the breaches of this poor Nation. Make <hi>England</hi> and <hi>Scotland</hi> as one ſtaff in the Lords hand; that <hi>Ephraim</hi> might not envy <hi>Judah,</hi> nor <hi>Judah</hi> vex <hi>Ephraim;</hi> but that both might flee upon the ſhoulders of the <hi>Philiſtins:</hi> that man of the Proteſtant Religion, en<g ref="char:EOLhyphen"/>gaged in the ſame Cauſe and Covenant, might not delight to ſpill each others blood, but might engage againſt the common Adverſaries of our Religion and Liberties. God ſhew mercy to all that fear him.</p>
+                           <p>
+                              <pb n="15" facs="tcp:165938:8"/>
+Thinke upon our Covenant-keeping Brethren in the Kingdome of Scotland, keep them faithfull to thee, and let not them that have invaded them over ſpread their whole Land: Prevent the more ſhedding of Christian blood, if it ſeem good in thine eyes. God ſhew mercy to thy poor Servant who is here now giving up the Ghoſt. O bleſſed Jeſus, apply thy blood, not onely for my justification unto life, but alſo for my comfort, for the quieting of my ſoule, that ſo I may be in the joyes of Heaven, before I come to a poſſeſſion of Heaven. Hear the Prayers of all thy people that have been made for thy ſervant: and though thou haſt denied prayer as to the particular request concerning my life, yet let herein the fruit of prayer be ſeen, that thou wilt bear up my heart against the feare of death. God ſhew mer<g ref="char:EOLhyphen"/>cy to all that fear him: Shew mercy to all that have engaged for the life of thy ſervant, let them have mercy at the day of their appearing before Jeſus Christ. Preſerve thou a godly Miniſtry in this Nation, and reſtore a godly Ministry, and cauſe yet good dayes to be the heritage of thy people for the Lords ſake. Now Lord into thy hands thy ſervant committeth his ſpirit: And though he may not with <hi>Steven</hi> ſee the Heavens opened, let him have the heavens opened; and though he may not ſee upon a Scaffold the Son of God standing at the right hand of God, yet let him come to the glorified body of Jeſus Chriſt, and this houre have an in<g ref="char:EOLhyphen"/>tellectuall ſight of the glorified body of his Saviour. Lord Jeſus receive my ſpi<g ref="char:EOLhyphen"/>rit, and Lord Jeſus ſtand by me thy dying ſervant, who hath indeavoured in his life time to ſtand for thee. Lord hear, pardon all his infirmities, wipe away his iniquities by the blood of Christ, wipe off reproaches from his name, wipe off guilt from his perſon, and receive him pure, and ſpotleſſe and blameleſſe before thee in love: And all this we beg for the ſake of Jeſus Christ. <hi>Amen,</hi> and <hi>Amen.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Mr. Aſh.</speaker>
+               <p>You make a Chriſtian end I hope.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Love.</speaker>
+               <p>I, I, bleſſe God.</p>
+            </sp>
+            <p>
+               <hi>Then turning to M. Sheriffe</hi> Tichburn, <hi>ſaid,</hi> 
+               <q>I thanke you for this kind<g ref="char:EOLhyphen"/>neſſe; Sir, you have expreſſed a great deal of kindneſſe to me: Well, I go from a block to the boſome of my Saviour.</q>
+            </p>
+            <p>
+               <hi>Then he asked,</hi> 
+               <q>Where is the Executioner?</q>
+            </p>
+            <p>
+               <hi>When the Executioner came forward, he ſaid,</hi> 
+               <q>Art thou the Officer?</q>
+            </p>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>
+                  <hi>Yes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Love.</speaker>
+               <stage>
+                  <p>
+                     <hi>Then lifting up his eyes, he ſaid,</hi>
+                  </p>
+               </stage>
+               <p>O bleſſed Jeſus, that hath kept me from the hurt of death, and from the fear of death. O bleſſed be God, bleſſed be Cod.</p>
+            </sp>
+            <p>
+               <hi>And taking his leave of the Miniſters, he ſaid,</hi>
+            </p>
+            <sp>
+               <speaker>Love.</speaker>
+               <p>The Lord be with you all:</p>
+            </sp>
+            <p>
+               <hi>And taking leave of Sheriffe</hi> Tichburn, <hi>he kiſſed his hand.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:165938:9"/>
+Then he kneeled down, and made a ſhort prayer privately.</p>
+            <p>
+               <hi>Then after riſing up, he ſaid,</hi> 
+               <q>Bleſſed be God I am full of joy, and peace in believing; I lie down with a world of comfort, as if I were to lie downe in my bed. My bed is but a ſhort ſleep, and this death is a long ſleep, where I ſhall reſt in <hi>Abrahams</hi> boſome, and in the embraces of the Lord Jeſus.</q>
+            </p>
+            <p>
+               <hi>And then ſaying,</hi> 
+               <q>The Lord bleſſe you,</q> 
+               <hi>he laid himſelfe down upon the Scaffold, with his head over the block: And when he ſtretched forth his hands, the Executioner cut off his head at one blow.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
